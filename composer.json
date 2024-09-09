@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-generator-helpers",
+    "name": "togsar/laravel-generator-helpers",
     "description": "Helper functions for laravel generator packages",
     "type": "library",
     "license": "MIT",
@@ -7,7 +7,11 @@
         {
             "name": "Mitul Golakiya",
             "email": "me@mitul.me"
-        }
+        },
+	{
+            "name": "Ahmet Yusuf TOĞTAY",
+	    "email": "Ahmet.yusuf.togtay@togsar.com"
+	}
     ],
     "require": {
         "php": "^8.1.0",
